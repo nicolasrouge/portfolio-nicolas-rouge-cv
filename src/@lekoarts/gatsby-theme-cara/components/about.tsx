@@ -6,7 +6,7 @@ import Svg from "@lekoarts/gatsby-theme-cara/src/components/svg"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 // @ts-ignore
-import AboutMDX from "../sections/about"
+import AboutMDX from "@lekoarts/gatsby-theme-cara/src/sections/about"
 
 const About = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
   <div>

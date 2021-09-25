@@ -10,7 +10,8 @@ import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 
 // @ts-ignore
-import Intro from "../sections/intro"
+import Intro from "@lekoarts/gatsby-theme-cara/src/sections/intro"
+
 
 const Hero = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
   <div>

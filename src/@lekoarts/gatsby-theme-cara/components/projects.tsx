@@ -8,7 +8,8 @@ import Seo from "@lekoarts/gatsby-theme-cara/src/components/seo"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 // @ts-ignore
-import ProjectsMDX from "../sections/projects"
+import ProjectsMDX from "@lekoarts/gatsby-theme-cara/src/sections/projects"
+
 
 const Projects = ({ offset, factor = 2 }: { offset: number; factor?: number }) => (
   <div>

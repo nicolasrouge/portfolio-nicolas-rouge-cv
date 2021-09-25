@@ -10,7 +10,8 @@ import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 import Footer from "@lekoarts/gatsby-theme-cara/src/components/footer"
 // @ts-ignore
-import ContactMDX from "../sections/contact"
+import ContactMDX from "@lekoarts/gatsby-theme-cara/src/sections/contact"
+
 
 const Contact = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
   <div>
