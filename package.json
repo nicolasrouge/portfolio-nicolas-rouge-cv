@@ -17,6 +17,8 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^2.0.0",
+    "@types/react-helmet": "^6.1.2",
+    "country-flag-icons": "^1.4.10",
     "gatsby": "^3.6.1",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
     "gatsby-plugin-google-analytics": "^3.6.0",
