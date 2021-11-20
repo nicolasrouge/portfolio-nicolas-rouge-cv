@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "nro-porfolio",
+  "description": "portfolio",
   "version": "0.2.10",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "nicolas.rouge777@gmail.com",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "nicolas-rouge-fullstackdeveloper-portfolio",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
