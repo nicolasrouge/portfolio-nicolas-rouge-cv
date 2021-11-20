@@ -9,6 +9,13 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Nicolas Rouge Portfolio`,
+    siteTitle: `Nicolas Rouge Portfolio`,
+    siteHeadline: `Nicolas Rouge Portfolio Full-Stack C# React`,
+    siteUrl: `https://portfolionicolasrougecv.gatsbyjs.io/`,
+    siteDescription: `Thank you for consulting my portfolio, Feel free to contact me.`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@nicolasrouge`,
   },
   plugins: [
     {
