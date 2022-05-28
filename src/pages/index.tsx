@@ -13,12 +13,13 @@ const Cara = () => (
     <script>var stylesheet = "https://app.testdome.com/content/source/stylesheets/embed.css", link = document.createElement("link"); link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
 
       </Helmet>
-    <Parallax pages={5}>
+    <Parallax pages={6}>
       <Hero offset={0} factor={1} />
       <Projects offset={1} factor={2} />
       <About offset={3} factor={1} />
       <Contact offset={4} factor={1} />
     </Parallax>
+    
   </Layout>
 )
 
